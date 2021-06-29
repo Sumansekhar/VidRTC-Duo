@@ -1,0 +1,95 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+body {
+  background-image: url(/backgroundimg.svg);
+   
+    background-size: cover;                 
+    background-repeat:no-repeat;
+    background-position: left top;
+   
+  
+ 
+}
+.left_top_text_and_button {
+  margin-left: 6%;
+    position: relative;
+  
+
+}
+#Duo {
+  font-size: 2vw;
+}
+#vidrtc {
+  display: inline;
+  font-family: 'MuseoModerno', cursive;
+}
+
+@media screen and (min-width:1150px){
+  .left_top_text_and_button {
+      margin-left: 6%;
+      position:fixed;
+      
+  }
+  #Duo {
+    font-size: 0.7vw;
+  }
+}
+#Duo1 {
+  font-family: 'MuseoModerno', cursive;
+  
+}
+
+.making_inline {
+ display: inline;
+}
+#VidRTCduotext {
+ font-weight: bold;
+ color: aliceblue;
+}
+
+.page-footer {
+  background-color: #2B63FF;
+  color:#2B63FF ;
+}
+.navbarclass {
+  background-color: #2B63FF;
+  color: #2B63FF; 
+}
+.rower {
+ 
+ align-items: baseline;
+padding-left: 9%;
+}
+.leftdiv {
+  margin-left: 5%;
+}
+.p {
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', 'sans-serif';
+}
+.brand-logo {
+  font-family: 'MuseoModerno', cursive;
+ 
+  
+}
+.navmobbg {
+background-image: url("/navmobilebg.svg");
+background-size:contain;
+background-repeat:repeat;
+}
+#devlink {
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', 'sans-serif';
+  font-size: 1.2vw;
+}
+

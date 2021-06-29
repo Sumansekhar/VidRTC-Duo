@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1920_6);
+      }
+
+      .cls-2 {
+        fill: #2b63ff;
+      }
+
+      .cls-3 {
+        fill: #00218c;
+      }
+
+      .cls-4 {
+        fill: #1b1960;
+      }
+
+      .cls-5 {
+        fill: #4274ff;
+      }
+
+      .cls-6 {
+        fill: #0901f3;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #001f75;
+      }
+
+      .cls-7 {
+        opacity: 0.34;
+      }
+
+      .cls-8 {
+        opacity: 0.74;
+      }
+
+      .cls-9 {
+        filter: url(#Rectangle_26);
+      }
+
+      .cls-10 {
+        filter: url(#Rectangle_18);
+      }
+    </style>
+    <filter id="Rectangle_18" x="-795.377" y="-469.227" width="2465.447" height="2284.939" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_26" x="-24" y="-141.061" width="2484.183" height="2305.747" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Web_1920_6">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_6" data-name="Web 1920 – 6" class="cls-1">
+    <rect class="cls-2" width="1920" height="1080"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" class="cls-2" width="2534" height="698" transform="translate(27.412 -396.675) rotate(31)"/>
+    <rect id="Rectangle_23" data-name="Rectangle 23" class="cls-3" width="2530" height="680.321" transform="matrix(0.602, 0.799, -0.799, 0.602, 100.059, -466.29)"/>
+    <rect id="Rectangle_24" data-name="Rectangle 24" class="cls-4" width="2530" height="606.592" transform="matrix(0.292, 0.956, -0.956, 0.292, 165.749, -482.924)"/>
+    <rect id="Rectangle_25" data-name="Rectangle 25" class="cls-5" width="2530" height="1030" transform="translate(588.258 -1387.828) rotate(39)"/>
+    <path id="Path_3" data-name="Path 3" class="cls-6" d="M0,0H2466V501H0Z" transform="translate(175.896 -796.202) rotate(19)"/>
+    <g class="cls-10" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_18-2" data-name="Rectangle 18" class="cls-7" width="2863" height="424.167" transform="translate(-771.38 1470.49) rotate(-42)"/>
+    </g>
+    <g class="cls-9" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_26-2" data-name="Rectangle 26" class="cls-8" width="2863" height="452.167" transform="translate(0 1798.66) rotate(-42)"/>
+    </g>
+  </g>
+</svg>
